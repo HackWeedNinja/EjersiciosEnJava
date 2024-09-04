@@ -1,0 +1,3 @@
+HOLA!!...
+este es un repositorio donde subire codigos realizados en varias plataformas como exercism, leetcode, etc.  estan hechos en java, no tengo mucho conocimiento de como funciona github
+aquel que tenga buenas intenciones de ayudar en algo... consejos, opiniones etc sera bienvenido
